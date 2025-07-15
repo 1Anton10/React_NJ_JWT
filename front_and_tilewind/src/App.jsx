@@ -52,7 +52,7 @@ function App() {
           <div className="sm:hidden flex flex-col sm:mt-5 mt-[10px] sm:gap-[20px] gap-[10px]">
             <div className="flex bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[26px] bg-[#F8F9FB] mx-4 my-[10px]" src={Lock_logo} />
+                <img className="rounded-[5px] w-[60px] h-[60px] bg-white px-4 py-[10px]" src={Lock_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-sm:max-w-[200px]">2Captcha solver <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="bg-[#00A1B3] flex w-fit rounded-[15px] px-[10px] gap-[4px] text-white">
@@ -83,7 +83,7 @@ function App() {
 
             <div className="flex bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[26px] bg-[#F8F9FB] mx-4 my-[10px]" src={Pupp_logo} />
+                <img className="rounded-[5px] w-[60px] h-[60px] bg-white px-4 py-[10px]" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-sm:max-w-[200px]">Puppeteer plugin to solve reCAPTCHAs automatically <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="bg-[#00A1B3] flex w-fit rounded-[15px] px-[10px] gap-[4px] text-white">
@@ -110,7 +110,7 @@ function App() {
 
             <div className="flex bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[26px] bg-[#F8F9FB] mx-4 my-[10px]" src={Js_logo} />
+                <img className="rounded-[5px] w-[60px] h-[60px] bg-white px-4 py-[10px]" src={Js_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-sm:max-w-[200px]">2captcha-javascript <img className="inline align-middle" src={Arrow_right_logo}/></span>
                 </div>
@@ -135,7 +135,7 @@ function App() {
           <div className=" max-sm:hidden flex flex-col sm:mt-5 mt-[10px] sm:gap-[20px] gap-[10px]">
             <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[40px] bg-[#F8F9FB] mx-4 my-[10px]" src={Lock_logo} />
+                <img className="rounded-[5px] w-[90px] h-[90px] bg-white px-[25px] py-4" src={Lock_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-[770px]:max-w-[400px]">2Captcha solver <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="flex flex-wrap gap-[20px]">
@@ -171,7 +171,7 @@ function App() {
 
             <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[40px] bg-[#F8F9FB] mx-4 my-[10px]" src={Pupp_logo} />
+                <img className="rounded-[5px] bg-white w-[90px] h-[90px]  px-[25px] py-4" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-[770px]:max-w-[400px]">Puppeteer plugin to solve reCAPTCHAs automatically <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="flex flex-wrap gap-[20px]">
@@ -199,7 +199,7 @@ function App() {
 
             <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[40px] bg-[#F8F9FB] mx-4 my-[10px]" src={Js_logo} />
+                <img className="rounded-[5px] w-[90px] h-[90px] bg-white px-[25px] py-4" src={Js_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-[770px]:max-w-[400px]">2captcha-javascript <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="flex flex-wrap gap-[20px]">
@@ -227,7 +227,7 @@ function App() {
 
             <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[40px] bg-[#F8F9FB] mx-4 my-[10px]" src={Pupp_logo} />
+                <img className="rounded-[5px] w-[90px] h-[90px] bg-white px-[25px] py-4" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-[770px]:max-w-[400px]">Puppeteer plugin to solve reCAPTCHAs automatically <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="flex flex-wrap gap-[20px]">
@@ -255,7 +255,7 @@ function App() {
 
             <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
-                <img className="rounded-[5px] w-[40px] bg-[#F8F9FB] mx-4 my-[10px]" src={Pupp_logo} />
+                <img className="rounded-[5px] w-[90px] h-[90px] bg-white px-[25px] py-4" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
                   <span className="font-semibold text-[20px] leading-[30px] tracking-[0%] max-[770px]:max-w-[400px]">Puppeteer plugin to solve reCAPTCHAs automatically <img className="inline align-middle" src={Arrow_right_logo}/></span>
                   <div className="flex flex-wrap gap-[20px]">
