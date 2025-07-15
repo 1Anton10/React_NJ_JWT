@@ -50,7 +50,7 @@ function App() {
           </div>
           {/* cards mobile */}
           <div className="sm:hidden flex flex-col sm:mt-5 mt-[10px] sm:gap-[20px] gap-[10px]">
-            <div className="flex flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[26px] bg-white mx-4 my-[10px]" src={Lock_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -81,7 +81,7 @@ function App() {
               </div>
             </div>
 
-            <div className="flex flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[26px] bg-white mx-4 my-[10px]" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -108,7 +108,7 @@ function App() {
               </div>
             </div>
 
-            <div className="flex flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[26px] bg-white mx-4 my-[10px]" src={Js_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -133,7 +133,7 @@ function App() {
           </div>
           {/* cards desktop */}
           <div className=" max-sm:hidden flex flex-col sm:mt-5 mt-[10px] sm:gap-[20px] gap-[10px]">
-            <div className="flex relative flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[40px] bg-white mx-4 my-[10px]" src={Lock_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -169,7 +169,7 @@ function App() {
               </div>
             </div>
 
-            <div className="flex relative flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[40px] bg-white mx-4 my-[10px]" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -197,7 +197,7 @@ function App() {
               </div>
             </div>
 
-            <div className="flex relative flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[40px] bg-white mx-4 my-[10px]" src={Js_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -225,7 +225,7 @@ function App() {
               </div>
             </div>
 
-            <div className="flex relative flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[40px] bg-white mx-4 my-[10px]" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
@@ -253,7 +253,7 @@ function App() {
               </div>
             </div>
 
-            <div className="flex relative flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
+            <div className="flex relative bg-[#F8F9FB] flex-col rounded-[10px] border border-[#E1EAF6] px-[15px] py-[20px]">
               <div className="flex gap-[15px]">
                 <img className="rounded-[5px] w-[40px] bg-white mx-4 my-[10px]" src={Pupp_logo} />
                 <div className="flex flex-col gap-[13px]">
